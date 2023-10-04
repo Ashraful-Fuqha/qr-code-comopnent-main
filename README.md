@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./screenshot.jpg)
+![screenshot](./images/image-qr-code.png)
 
 ### Links
 - Live Site URL: [Add live site URL here](https://ashraful-fuqha.github.io/qr-code-comopnent-main/)
